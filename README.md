@@ -1,2 +1,2 @@
-# teamspinner.github.io
+# superspinner.github.io
 Randomly selects team members
